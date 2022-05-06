@@ -1,1 +1,8 @@
+
 welcome to CloudDevops project!
+
+welcome to aws
+welcome to GIT
+Welcome to maven
+welcome to jenkins 
+
